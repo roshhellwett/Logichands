@@ -84,4 +84,12 @@ Enter first value (0/1): 1
 Enter second value (0/1): 0
 
 Result: 1 AND 0 = 0
+
 ```
+
+---
+
+© 2026 [Zenith Open Source Projects](https://zenithprojects.up.railway.app/). All Rights Reserved.  
+Zenith is a Open Source Project Idea's by @roshhellwett
+
+---
