@@ -1,4 +1,4 @@
-# 🧩 Logichands
+# 🧩 Project Logichands
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
@@ -37,7 +37,7 @@ It’s designed to demonstrate structured programming, modularity, and Boolean l
 
 ## 📁 Project Structure
 ```bash
-Logichands/
+projectlogichands/
 │
 ├── main.c # Core logic & user interface
 ├── logic.c # Logic operation implementations
@@ -60,7 +60,7 @@ Ensure you have:
 ### ⚙️ Installation & Build
 ```bash
 # Clone the repository
-git clone https://github.com/roshhellwett/Logichands.git
+git clone https://github.com/roshhellwett/projectlogichands.git
 cd Logichands
 
 # Compile the program
